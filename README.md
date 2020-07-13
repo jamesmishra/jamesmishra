@@ -9,7 +9,7 @@ I earned half of a Computer Science degree at the University of Minnesota while 
 
 After that, I joined Uber as one of their youngest engineers ever hired. While I was there, I worked on Uber's [Developer API](https://developer.uber.com/) and some of their enterprise partnerships. I led the engineering for the prototype version of [UberHEALTH](https://www.uberhealth.com/)--Uber's non-emergency medical transportation product.
 
-I left Uber to spend two years cofounding ultimately-doomed enterprise software company. After that, I returned to the University of Minnesota to work on machine learning-powered attacks against a major social media site.
+I left Uber to spend two years cofounding an ultimately-doomed enterprise software company. After that, I returned to the University of Minnesota to work on machine learning-powered attacks against a major social media site.
 
 Recently, I dropped out of school again to start another company. More details to come soon.
 
@@ -27,7 +27,7 @@ Recently, I dropped out of school again to start another company. More details t
 ## Other contributions to society
  - I spent nine months as a State of Minnesota-certified sexual assault crisis counselor, serving rape victims in three Minneapolis emergency rooms for [The Aurora Center](http://aurora.umn.edu/).
  - I spend a few days a year volunteering for [YMCA Youth In Government](https://www.ymca.net/youthandgovernment), a series of student government conferences for high school students. I used to participate in these programs while I was in high school.
- - I taught a one week-long computer programming summer day camp for students in grades 5 through 12. Teaching kids to code is one of my greatest joys in life.
+ - I taught a one-week-long computer programming summer day camp for students in grades 5 through 12. Teaching kids to code is one of my greatest joys in life.
 
 ## Where you can find me on the Internet
  - **[jamesmishra.com](https://jamesmishra.com)**, my personal website.
