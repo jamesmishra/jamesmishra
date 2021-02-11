@@ -2,7 +2,7 @@
 
 I started my career doing various research internships for various US Government labs--working on projects relating to machine learning and quantum computing.
 
-I left the US Government to join Uber as one of the youngest engineers ever hired. While there, I worked on Uber's [Developer API](https://developer.uber.com/) and the prototype version of [UberHEALTH](https://www.uberhealth.com/)--Uber's non-emergency medical transportation product.
+I left the US Government to join Uber as one of the youngest engineers ever hired. While there, I worked on Uber's **[Developer API](https://developer.uber.com/)** and the prototype version of **[UberHEALTH](https://www.uberhealth.com/)**--Uber's non-emergency medical transportation product.
 
 After that, I cofounded an ultimately-doomed startup. More recently, I have founded another another company focused on applying machine learning to the music industry.
 
