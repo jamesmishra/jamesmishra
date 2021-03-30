@@ -2,16 +2,14 @@
 
 I am a software engineer. Recently I founded a company focused on machine learning and the music industry. Before that, I was a software engineer at Uber, working on their public-facing developer API.
 
-### Work
-
-#### Writing
+### Writing
 
 * [**Click Track**][2], a newsletter analyzing the future of the music business.
 * [**Dark Shift**][8], a pop culture publication.
 * [**Operational Security for Activists**][9], a free online book that explains how activists can stay secure when using technology. I wrote this for my friends in the aftermath of the 2020 George Floyd protests.
 * [**machinelearning.wtf**][10], an online encyclopedia of machine learning terms. Currently [accepting contributions via GitHub][11].
 
-#### Open-source software
+### Open-source software
 
 * [**Provose**][3], a new way to manage your Amazon Web Services infrastructure. You describe the containers, databases, and filesystems that you want to deploy, and Provose automatically calculates the necessary security and networking configuration. Built with HashiCorp Terraform.
 * [**TFCA**][4], a HashiCorp Terraform module that makes it easy to create a local self-signed TLS Certificate Authority.
