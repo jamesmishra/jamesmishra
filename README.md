@@ -1,12 +1,7 @@
 # Hi, I'm James
 
-Hi! I am a software engineer with a focus on machine learning and the music industry.
+I am a software engineer. Recently I founded a company focused on machine learning and the music industry. Before that, I was a software engineer at Uber, working on their public-facing developer API.
 
-I started my career in 2013 of internships for NASA, the US National Security Agency, and the US Department of Energy’s Oak Ridge National Laboratory (ORNL). At ORNL, I researched ways that quantum computing could theoretically accelerate Bitcoin mining.
-
-In 2015, I joined Uber as one of the youngest engineers they had ever hired, where I worked on Uber's [public-facing developer API][12]. Shortly before I left, I led the development of a prototype of what later became [UberHEALTH][1]—Uber’s non-emergency medical transportation product.
-
-I left Uber in 2017 to start a now-failed startup. I went back to school, did some work in a computer security research lab, and then started another company in late 2019.
 ### Work
 
 #### Writing
