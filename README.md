@@ -11,6 +11,7 @@ I am a software engineer. Recently I founded a company focused on machine learni
 
 ### Open-source software
 
+* [**ScalarStop**][13], a framework for keeping track of machine learning experiments.
 * [**Provose**][3], a new way to manage your Amazon Web Services infrastructure. You describe the containers, databases, and filesystems that you want to deploy, and Provose automatically calculates the necessary security and networking configuration. Built with HashiCorp Terraform.
 * [**TFCA**][4], a HashiCorp Terraform module that makes it easy to create a local self-signed TLS Certificate Authority.
 * [**Ori**][5], a Python library that provides high-level concurrency tools. For example, the [Ori PoolChain][6] makes it easy to distribute workloads across many threadpools and process pools.
@@ -29,4 +30,5 @@ I am a software engineer. Recently I founded a company focused on machine learni
 [10]: https://machinelearning.wtf/
 [11]: https://github.com/machine-learning-glossary/glossary
 [12]: https://developer.uber.com/
+[13]: https://www.scalarstop.com
 Feel free to send me an email at **[j@jamesmishra.com](mailto:j@jamesmishra.com)**.
