@@ -7,14 +7,12 @@ Much of my past work has involved machine learning, computer security, or perfor
 
 Recently I founded a company focused on machine learning and the music industry. Before that, I was a software engineer at Uber, working on their public-facing developer API. You can read more about my work history on [my LinkedIn](https://www.linkedin.com/in/jamesmishra/).
 
-### My Open-Source Projects
+### My Top Open-Source Projects
 
 * [**Babycat**][14], a Rust library for decoding and manipulating audio files--with bindings for C, Python, and WebAssembly.
 * [**ScalarStop**][13], a framework for keeping track of machine learning experiments.
 * [**Provose**][3], a new way to manage your Amazon Web Services infrastructure. You describe the containers, databases, and filesystems that you want to deploy, and Provose automatically calculates the necessary security and networking configuration. Built with HashiCorp Terraform.
 * [**TFCA**][4], a HashiCorp Terraform module that makes it easy to create a local self-signed TLS Certificate Authority.
-* [**Ori**][5], a Python library that provides high-level concurrency tools. For example, the [Ori PoolChain][6] makes it easy to distribute workloads across many threadpools and process pools.
-* [**Cypunct**][7], a Python library that makes it easy to quickly split Unicode strings based on entire Unicode character classes. This is useful for rapidly tokenizing text for natural language processing.
 
 
 ### My Writing
